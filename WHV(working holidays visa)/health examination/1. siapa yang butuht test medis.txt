@@ -1,0 +1,22 @@
+Applicant dan keluarga applicant mungkin butuh
+test kesehatan. 
+
+    A. Test kesehatan untuk visa applicant sementara
+    : Dipengaruhi oleh
+      1. Jenis visa
+      2. Berapa lama tinggal di australia
+      3. Rencana berkunjung ke australia
+      4. Asal negara pengapply
+      5. Kondisi medis yang significant.
+
+    B. Menghceck apakah kamu membutuhkan test medis
+    : 1. Buka ImmAccount
+      2. Buka application
+      3. Click 'View health assesment'
+      4. Jika australia ingin kamu memiliki
+      test medis akan ada link "Organise health examinations"
+      5. Click link dan isi sejarah medis.
+
+    C. Bila memiliki test medis kurun waktu 12 bulan
+    : Kemungkinan tidak diwajibkan mellakukan test medis lagi bila
+    pernah melakukan test medis dalam kurun waktu 12 bulan.

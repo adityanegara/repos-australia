@@ -1,0 +1,20 @@
+Untuk temporary visa dipengaruhi oleh level resiko negara dan berapa lama kamu
+tinggal di australia.
+    A. Country Risk Level Low
+        A.1 Tinggal kurang dari 6 bulan
+        : Tidak dibutuhkan test medis kecuali 
+        keadaan tertentu
+
+        A.2 Tinggal lebih dari 6 bulan
+        : Tidak dibutuhkan test medis kecuali 
+        keadaan tertentu
+
+    B. Country Risk Level High
+        B.1. Tinggal kurang dari 6 bulan
+        : Tidak dibutuhkan test medis kecuali 
+        keadaan tertentu
+
+        B.2. Tinggal lebih dari 6 bulan.
+        : 1. Medical examinations
+          2. chest-x-ray
+          3. Serum creatinine/eGFR
