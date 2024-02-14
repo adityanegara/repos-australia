@@ -1,0 +1,8 @@
+A. Jika visamu disetujui immigrasi australia akan memberitahumu
+: 1. Nomor visa yang disetujui
+  2. Tanggal visamu mulai
+  3. Kondisi visamu
+
+B. Jika visamu ditolak immigrasi australia akan memberitahumu
+: 1. alasan mengapa visamu ditolak
+  2. Jika kamu memiliki hak untuk mereview keputusan.
